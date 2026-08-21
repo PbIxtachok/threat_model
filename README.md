@@ -3,7 +3,7 @@
 
 <!-- Блок превью-видео -->
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/b9f72ec0-1883-48a7-b9aa-4a9e8af44b30" width="100%" controls autoplay loop muted></video>
+  <video src="https://github.com/user-attachments/assets/b9f72ec0-1883-48a7-b9aa-4a9e8af44b30" title="" width="100%" controls autoplay loop muted></video>
 </p>
 
 
