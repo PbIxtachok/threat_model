@@ -1,0 +1,7 @@
+# Дополнительно — только для провайдера «transformers» (локальная модель in-process).
+# Рекомендуемый способ работы с локальными LLM — Ollama или LM Studio (см. README),
+# тогда эти пакеты НЕ нужны.
+-r requirements.txt
+torch>=2.1
+transformers>=4.40
+accelerate>=0.30

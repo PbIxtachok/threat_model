@@ -1,0 +1,22 @@
+{
+  "job_id": "20260820_202523_cfa576",
+  "profile_name": "Информационная система обработки платежей и персональных данных сервиса интернет-эквайринга «ПейМаркет»",
+  "profile_fingerprint": "69d87509fe498a82",
+  "status": "done",
+  "current_stage": "",
+  "error": "",
+  "stages": {
+    "s1_general": "done",
+    "s2_description": "done",
+    "s3_consequences": "done",
+    "s4_impact_objects": "done",
+    "s5_intruders": "done",
+    "s6_ways": "done",
+    "s7_ubi": "done",
+    "s8_scenarios": "done",
+    "s9_docx": "done"
+  },
+  "created_at": "2026-08-20T20:25:23",
+  "updated_at": "2026-08-20T21:01:13",
+  "docx_path": "/home/art/ubi/my_ib_agent_v6/output/jobs/20260820_202523_cfa576/Модель угроз.docx"
+}
